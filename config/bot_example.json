@@ -1,0 +1,9 @@
+{
+    "email": "email",
+    "password": "password",
+    "firebaseUrl": "https://url.firebaseio.com",
+    "group": {
+        "name": "Group Name",
+        "id": 0
+    }
+}
